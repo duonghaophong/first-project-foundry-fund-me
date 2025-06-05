@@ -64,3 +64,22 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+# About
+
+This is a crowd sourcing app!
+
+This is the fisrt duonghaophong app as a Ethereum developer!
+
+duonghaophong is a Vietnamese developer who loves Ethereum and open source.
+
+duonghaophong will be Billionaire soon!
+
+Love you all!
+
+# Getting Started
+
+## Requirements
+
+## Quickstart
+
+
